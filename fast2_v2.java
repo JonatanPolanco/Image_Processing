@@ -1,7 +1,6 @@
 /*
 This algorithm is based on the article "Noise Estimation Using Adaptive 
 Gaussian Filtering And Variable Block Size Image Segmentation" 
-and with certain adaptations made by Manuel Forero and Sergio Miranda
 */
 import ij.*;
 import ij.process.*;
